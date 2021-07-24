@@ -4,6 +4,11 @@ let correctAnswers = 0;
 
 showQuestion();
 
+
+// Events
+document.querySelector('.scoreArea button').addEventListener('click', resetEvent);
+
+
 // Functions
 function showQuestion() {
     if (questions[currentQuestion]) {
@@ -67,4 +72,11 @@ function finishQuiz() {
     document.querySelector('.questionArea').style.display = 'none';
     document.querySelector('.progress--bar').style.width = '100%';
 
+}
+
+
+function resetEvent() {
+    correctAnswers = 0;
+    currentQuestion = 0;
+    showQuestion();
 }
