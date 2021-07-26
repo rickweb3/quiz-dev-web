@@ -26,8 +26,8 @@ Projeto prático de estudo desenvolvido com o intuito de aplicar meus conhecimen
 
 ## Projeto desenvolvido
 
-![Screenshot](img_readme/overview_quiz_dev_web_1.png)
-![Screenshot](img_readme/overview_quiz_dev_web_2.png)
-![Screenshot](img_readme/overview_quiz_dev_web_3.png)
+![Screenshot](img_readme/overview_quiz_dev_web1.png)
+![Screenshot](img_readme/overview_quiz_dev_web2.png)
+![Screenshot](img_readme/overview_quiz_dev_web3.png)
 
 ---
